@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea0cb664.css",
-    "main.js": "/static/js/main.cd5f2efa.js",
-    "static/js/787.1ba8620b.chunk.js": "/static/js/787.1ba8620b.chunk.js",
-    "index.html": "/index.html",
-    "main.ea0cb664.css.map": "/static/css/main.ea0cb664.css.map",
-    "main.cd5f2efa.js.map": "/static/js/main.cd5f2efa.js.map",
-    "787.1ba8620b.chunk.js.map": "/static/js/787.1ba8620b.chunk.js.map"
+    "main.css": "/tic-tac-game/static/css/main.ea0cb664.css",
+    "main.js": "/tic-tac-game/static/js/main.97e1ff11.js",
+    "static/js/787.1ba8620b.chunk.js": "/tic-tac-game/static/js/787.1ba8620b.chunk.js",
+    "index.html": "/tic-tac-game/index.html",
+    "main.ea0cb664.css.map": "/tic-tac-game/static/css/main.ea0cb664.css.map",
+    "main.97e1ff11.js.map": "/tic-tac-game/static/js/main.97e1ff11.js.map",
+    "787.1ba8620b.chunk.js.map": "/tic-tac-game/static/js/787.1ba8620b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea0cb664.css",
-    "static/js/main.cd5f2efa.js"
+    "static/js/main.97e1ff11.js"
   ]
 }
